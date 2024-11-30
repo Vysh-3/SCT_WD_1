@@ -98,7 +98,7 @@ main {
     padding-top: 60px; /* Height of the fixed header */
     text-align: center;
     margin: 20px;
-    color: white; /* Ensure text is readable against the animated background */
+    color: black; /* Ensure text is readable against the animated background */
 }
 
 section {
